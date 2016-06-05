@@ -1,0 +1,11 @@
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\bin\Debug\YandereTextureManager.exe.config
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.MainForm.resources
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.Properties.Resources.resources
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.csproj.GenerateResource.Cache
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\bin\Debug\YandereTextureManager.exe
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\bin\Debug\YandereTextureManager.pdb
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.exe
+c:\users\jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.pdb
+C:\Users\Jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.TextureApplyForm.resources
+C:\Users\Jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.SettingsForm.resources
+C:\Users\Jens\documents\visual studio 2015\Projects\YandereTextureManager\YandereTextureManager\obj\Debug\YandereTextureManager.UrlDownloadForm.resources
